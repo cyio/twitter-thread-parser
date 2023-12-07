@@ -8,14 +8,7 @@
 
 ### Method 1: Browser Console Execution
 
-1. Copy the function provided below.
-
-```javascript
-// Paste the function here
-function parseTwitterThread(apiResponse) {
-  // Your parsing logic here
-}
-```
+1. Copy the function named `parseTwitterThread` provided in `index.js`
 
 2. Open your browser's console and execute the copied function, providing the Twitter thread API response as an argument.
 
@@ -26,7 +19,7 @@ function parseTwitterThread(apiResponse) {
 
 1. Copy the API response content of the desired Twitter thread and save it as `data.json`.
 
-```json
+```
 https://twitter.com/i/api/graphql/xxxxx/TweetDetail
 ```
 
